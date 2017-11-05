@@ -1,9 +1,4 @@
-# Compiled class file
-*.class
-
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-.nb-gradle/
+**/dist/*
+**/build/*
+**/nbproject/private/*
+**/bower_components/*
